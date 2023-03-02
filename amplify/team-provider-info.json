@@ -10,6 +10,14 @@
       "StackName": "amplify-amplifynextjschatapp-dev-193754",
       "StackId": "arn:aws:cloudformation:us-east-1:900710135276:stack/amplify-amplifynextjschatapp-dev-193754/4c3edb10-b8e6-11ed-8ffd-0ed100cf42bd",
       "AmplifyAppId": "d1om57m8rcs532"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1om57m8rcs532",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
